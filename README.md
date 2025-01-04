@@ -1,2 +1,2 @@
 # GANs
-Building a Gan from sratch
+Building a Gan from scratch
