@@ -1,7 +1,7 @@
 # GANs
 ### Building a DCGan from scratch1
-**Generator** \n
-  Blocks of \n
+**Generator** /n
+  Blocks of /n
   * ConvTranspose2D
   * Batch normalization
   * Activations
