@@ -5,14 +5,14 @@
   * ConvTranspose2D
   * Batch normalization
   * Activations
-**Discriminator**
+**Discriminator** \
   Blocks of 
   * Conv
   * Leaky ReLU
   * Batch normalization
   * Fully connected layer
-**Training**
-  **Discriminator**
+**Training** \
+  **Discriminator** \
   * Feed real images and label them as real.
   * Feed generated images and label them as fake.
   * Update DD to minimize classification error.
