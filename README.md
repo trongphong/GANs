@@ -1,16 +1,16 @@
 # GANs
 ### Building a DCGan from scratch1
 **Generator** \n
-  Blocks of\n
-    * ConvTranspose2D
-    * Batch normalization
-    * Activations
+  Blocks of \n
+  * ConvTranspose2D
+  * Batch normalization
+  * Activations
 **Discriminator**\n
   Blocks of \n
-    * Conv
-    * Leaky ReLU
-    * Batch normalization
-    * Fully connected layer
+  * Conv
+  * Leaky ReLU
+  * Batch normalization
+  * Fully connected layer
 **Training**
   **  Train Discriminator ** \n
     * Feed real images and label them as real.
